@@ -3,5 +3,9 @@ This project was made for my Signals Spectrum Processing class. It is composed o
 
 More details in this dropbox link: https://www.dropbox.com/s/qbg0pbgjz3uwio5/Virtual%20Piano%20%28Overview%29.pdf?dl=0
 
+Main GUI:
+![image](https://user-images.githubusercontent.com/82814920/116245423-877fc800-a79b-11eb-9aaa-266b587e16f6.png)
+
+
 
 
